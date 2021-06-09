@@ -1,0 +1,6 @@
+appPages\CatalogList_CategoriesPage.class
+configReader\ConfigReader.class
+appPages\CatalogList_ProductsPage.class
+appPages\HomePage.class
+appPages\LoginPage.class
+appDriverFactory\DriverFactory.class

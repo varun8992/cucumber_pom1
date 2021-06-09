@@ -1,0 +1,13 @@
+applicationStepDefinations\HomePage_Categories_ProductsStep.class
+parallel\Homepage_Categories_CatalogStep.class
+applicationStepDefinations\HomePageSteps.class
+applicationStepDefinations\Homepage_Categories_CatalogStep.class
+applicationStepDefinations\LoginPageStep.class
+parallel\LoginPageStep.class
+appHooks\ApplicationHooks.class
+applicationRunner\ApplicationRunner.class
+parallel\HomePage_Categories_ProductsStep.class
+parallel\FailedRun.class
+parallel\HomePageSteps.class
+parallel\ParallelRun.class
+parallel\ApplicationHooks.class
